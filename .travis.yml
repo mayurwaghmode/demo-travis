@@ -1,0 +1,5 @@
+language: bash
+arch: ppc64le
+os: linux
+script: df -h
+group: lxd
